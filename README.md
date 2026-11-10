@@ -1,2 +1,2 @@
 # auto_yt_release
-Latest version: `1.0.49` (`9d0161e64981`)
+Latest version: `1.0.50` (`ed6cc14a829b`)
